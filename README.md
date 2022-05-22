@@ -29,8 +29,8 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 ```
 /*
 Program to implement binary classification.
-Developed by: P.Keerthi priya
-Register Number: 212219040059
+Developed by: G.Tejaswi
+Register Number: 212219040029
 */
 from numpy import where
 from collections import Counter
